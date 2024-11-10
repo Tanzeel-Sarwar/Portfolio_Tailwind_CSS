@@ -7,6 +7,11 @@ const Navbar = () => {
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed nav">
       <div>
 
+      <head>
+        <title>Portfolio Website</title>
+        <link rel="icon" href="/favicon.png" sizes="any" />
+      </head>
+
         <h1 className="text-3xl font-signature ml-2">
           <a className="link-underline link-underline-black" href="" rel="noreferrer">
             Portfolio
