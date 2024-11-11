@@ -8,7 +8,7 @@ export default function About() {
       <h1 className="text-4xl font-bold mb-8 mt-28">About Me</h1>
       <div className="flex flex-col md:flex-row items-center md:items-start space-y-6 md:space-y-0 md:space-x-8">
         <Image
-          src="/Mine.png"
+          src="/computer_.jpeg"
           alt="Profile Picture"
           width={300}
           height={300}
